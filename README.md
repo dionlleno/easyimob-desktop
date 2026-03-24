@@ -11,3 +11,4 @@ Projeto Extensionista para a disciplina "Topicos de Big Data em Python"
 * Permitir a busca de anuncios no portal OLX(escolha do parceiro externo)
 * Automatizar a busca de anuncios conforme o perfil de preferencias do cliente.
 * Agendamento de buscar periodicas, alem de enviar notificações via email dos anuncios encontrados.
+
