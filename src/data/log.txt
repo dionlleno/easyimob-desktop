@@ -1,0 +1,17 @@
+Geral: Erro durante a escrita do arquivo de 'Clientes' 
+ -> Object of type Cliente is not JSON serializableGeral: Erro durante a leitura do arquivo de 'Clientes' 
+ -> Expecting value: line 2 column 3 (char 4)Geral: Erro durante a leitura do arquivo de 'Clientes' 
+ -> Expecting value: line 2 column 3 (char 4)Geral: Erro durante a leitura do arquivo de 'Clientes' 
+ -> Expecting value: line 2 column 3 (char 4)
+Geral: Erro durante a leitura do arquivo de 'Clientes' 
+ -> Expecting value: line 1 column 1 (char 0)
+Geral: Erro durante a leitura do arquivo de 'Clientes' 
+ -> Expecting value: line 1 column 1 (char 0)
+Geral: Erro durante a leitura do arquivo de 'Clientes' 
+ -> Expecting value: line 1 column 1 (char 0)
+Geral: Erro durante a leitura do arquivo de 'Clientes' 
+ -> Expecting value: line 1 column 1 (char 0)
+Geral: Erro durante a leitura do arquivo de 'Clientes' 
+ -> Expecting value: line 1 column 1 (char 0)
+Geral: Erro durante a leitura do arquivo de 'Clientes' 
+ -> Expecting value: line 1 column 1 (char 0)
